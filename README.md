@@ -1,3 +1,4 @@
 # Tic-Tac-Toe-Game
 This is Tic Tac Toe in python. This is my first python program.
-There is sample output at the bottom of the code. Note, anything followed by ":>" in the sample output is user input.
+
+(I will add a proper description of the code in the near future)
